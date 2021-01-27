@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RaintinImages</string>
+    <string name="hello_man">Enter your text!</string>
+    <string name="button_send">GO!</string>
+</resources>
